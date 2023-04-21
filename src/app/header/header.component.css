@@ -1,0 +1,32 @@
+#menu {
+    height: 40px;
+    background-color: lightgrey;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+ }
+ a:active {
+    color: dodgerblue;
+  }
